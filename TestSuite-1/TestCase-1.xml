@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testCase id="7fe2d4f4-ca32-4578-bce8-1c071fec9f1b" discardOkResults="false" failOnError="true" failTestCaseOnErrors="true" keepSession="false" name="TestCase 1" searchProperties="true" timeout="0" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings>
+    <con:setting id="7fe2d4f4-ca32-4578-bce8-1c071fec9f1bfileName">TestCase-1</con:setting>
+  </con:settings>
+  <con:properties>
+    <con:property>
+      <con:name>p1</con:name>
+      <con:value>qwe</con:value>
+    </con:property>
+    <con:property>
+      <con:name>p2</con:name>
+      <con:value>asd</con:value>
+    </con:property>
+    <con:property>
+      <con:name>accessToken</con:name>
+      <con:value>access hello123</con:value>
+    </con:property>
+    <con:property>
+      <con:name>p3</con:name>
+      <con:value>zxc</con:value>
+    </con:property>
+  </con:properties>
+  <con:reportParameters/>
+</con:testCase>
