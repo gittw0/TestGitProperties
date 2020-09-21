@@ -14,7 +14,7 @@
     </con:property>
     <con:property>
       <con:name>accessToken</con:name>
-      <con:value>access hello123</con:value>
+      <con:value>access hello access token</con:value>
     </con:property>
     <con:property>
       <con:name>p3</con:name>
